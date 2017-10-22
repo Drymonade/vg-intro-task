@@ -1,0 +1,32 @@
+[
+  {
+    "model": "vg_intro_task_app.Entry",
+    "pk": 1,
+    "fields": {
+      "machine_id": "101",
+      "machine_model": "BELAZ",
+      "max_load": 120,
+      "current_weight": 100
+    }
+  },
+  {
+    "model": "vg_intro_task_app.Entry",
+    "pk": 2,
+    "fields": {
+      "machine_id": "102",
+      "machine_model": "BELAZ",
+      "max_load": 120,
+      "current_weight": 125
+    }
+  },
+   {
+    "model": "vg_intro_task_app.Entry",
+    "pk": 3,
+    "fields": {
+      "machine_id": "K103",
+      "machine_model": "KOMATSU",
+      "max_load": 110,
+      "current_weight": 120
+    }
+  }
+]
